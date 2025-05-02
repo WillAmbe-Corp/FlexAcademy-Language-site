@@ -36,7 +36,7 @@ const AboutPage: React.FC = () => {
       <div className="container mx-auto px-4 md:px-8 lg:px-12 flex flex-col md:flex-row items-center justify-between">
         <div className="w-full md:w-[500px] mb-8 md:mb-0 md:pr-8">
           <Image
-            src="/aboutUs.png"
+            src="/AboutUs.png"
             alt="About Us"
             width={400}
             height={300}
