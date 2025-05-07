@@ -73,7 +73,7 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                href="/"
+                href="https://flexacademytraining.vercel.app/"
                 className="text-white hover:text-blue-500 transition duration-300"
               >
                 Trainings
